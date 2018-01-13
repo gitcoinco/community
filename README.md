@@ -24,12 +24,15 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Q4 2017 
 
-* [Gitcoin Community Livestream 2017/12/29](https://www.youtube.com/watch?v=PaDVPDvj-w0)
+* [Gitcoin Community Livestream 2017/12/29](https://www.youtube.com/watch?v=lv2zHss2s8c)
 * [Kevin Owocki at Ignite 34 -- Blockchain is the next TCP/IP](https://www.youtube.com/watch?v=eaIeFQd8h3k) 
 * Gitcoin Community Livestream 2017/12/22 (Lost forever -- oh noes!)
+* [Evan Van Ness Interview w. Kevin Owocki and Mark Beylin](https://thebitcoinpodcast.com/an-ethereum-podcast-episode-8/)
 * [Boulder Blockchain 0xF](https://www.youtube.com/watch?v=ExmZlC24ZJY)
+* [StartupCTO.io Episode -- Interview with Clay Collins and Nick Gauthier](https://startupcto.io/podcast/0-59-blockchain-is-like-sriracha-its-delicious-clay-collins-nick-gauthier-of-nomics-com/)
 * [Boulder Blockchain 0xE](https://www.youtube.com/watch?v=uSLdwhDw1Qw)
 * [Boulder Blockchain 0xD](https://www.youtube.com/watch?v=Yk1LXnqkSSk)
+* [StartupCTO.io - Interview with Kevin Owocki and Eric Berry](https://startupcto.io/podcast/0-57-sustaining-open-source-w-eric-berry-codesponsor-io/)
 * Boulder Blockchain 0xC (Lost Forever - oh noes!)
 * [Boulder Blockchain 0xB](https://www.youtube.com/watch?v=5HAzGuRGN44)
 * [Gitcoin at Ethereum Boulder 2017/10/12](https://www.youtube.com/watch?v=B5C9UM8n1rU)
@@ -37,15 +40,17 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Q3 2017 
 
+* [StartupCTO.io -- Interview with Matt Walters / Rhys Lindmark](https://startupcto.io/podcast/0-56-blockchain-nerdery-w-matt-walters-rhys-lindmark/)
 * [Boulder Blockchain 0x9](https://www.youtube.com/watch?v=VYULHYzXe7c)
 * [Boulder Blockchain 0x8](https://www.youtube.com/watch?v=qpvOcct9K-U)
+* [StartupCTO.io -- Interview with Raine Revere](https://startupcto.io/podcast/0-54-the-ethereum-ecosystem-w-raine-revere-lead-architect-at-prism/)
 * [Boulder Blockchain 0x7](https://www.youtube.com/watch?v=CT49BvyiIlE)
 * [Boulder Blockchain 0x6](https://www.youtube.com/watch?v=BChp_jBB2Q0)
 * [Boulder Blockchain 0x5](https://www.youtube.com/watch?v=GN7GdSlR8OI)
 
 ## Q2 2017 
 
-* [Congressman Jared Polis on Blockchain 2017/0706](https://www.youtube.com/watch?v=cUgDpcmTdCA)
+* [Congressman Jared Polis on Blockchain 2017/07/06](https://www.youtube.com/watch?v=cUgDpcmTdCA)
 * Boulder Blockchain 0x4 (Lost Forever - oh noes!)
 * [Boulder Blockchain 0x3](https://www.youtube.com/watch?v=yzllb6OTUz4)
 * [Boulder Blockchain 0x2](https://www.youtube.com/watch?v=9adyuj-0NC8)
