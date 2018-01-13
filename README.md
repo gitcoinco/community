@@ -17,17 +17,20 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Q1 2018 
 
-* [Gitcoin Community Livestream 2017/01/12](https://www.youtube.com/watch?v=TODO) 
+* [Gitcoin Community Livestream 2018/01/12](https://www.youtube.com/watch?v=TODO) 
 * [Gitcoin Demo](https://www.youtube.com/watch?v=7UE_ysCC4js) 
 * [Boulder Blockchain 0x10](https://www.youtube.com/watch?v=evitT6ACm9I)
+* Gitcoin Community Livestream 2018/01/05 (Lost forever -- oh noes!)
 
 ## Q4 2017 
 
 * [Gitcoin Community Livestream 2017/12/29](https://www.youtube.com/watch?v=PaDVPDvj-w0)
 * [Kevin Owocki at Ignite 34 -- Blockchain is the next TCP/IP](https://www.youtube.com/watch?v=eaIeFQd8h3k) 
+* Gitcoin Community Livestream 2017/12/22 (Lost forever -- oh noes!)
 * [Boulder Blockchain 0xF](https://www.youtube.com/watch?v=ExmZlC24ZJY)
 * [Boulder Blockchain 0xE](https://www.youtube.com/watch?v=uSLdwhDw1Qw)
 * [Boulder Blockchain 0xD](https://www.youtube.com/watch?v=Yk1LXnqkSSk)
+* Boulder Blockchain 0xC (Lost Forever - oh noes!)
 * [Boulder Blockchain 0xB](https://www.youtube.com/watch?v=5HAzGuRGN44)
 * [Gitcoin at Ethereum Boulder 2017/10/12](https://www.youtube.com/watch?v=B5C9UM8n1rU)
 * [Boulder Blockchain 0xA](https://www.youtube.com/watch?v=IZiQSgMroA4)
@@ -43,6 +46,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 ## Q2 2017 
 
 * [Congressman Jared Polis on Blockchain 2017/0706](https://www.youtube.com/watch?v=cUgDpcmTdCA)
+* Boulder Blockchain 0x4 (Lost Forever - oh noes!)
 * [Boulder Blockchain 0x3](https://www.youtube.com/watch?v=yzllb6OTUz4)
 * [Boulder Blockchain 0x2](https://www.youtube.com/watch?v=9adyuj-0NC8)
 * [Boulder Blockchain 0x1](https://www.youtube.com/watch?v=bC-oas5ckak)
