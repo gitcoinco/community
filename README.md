@@ -13,17 +13,6 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 [Star](https://github.com/gitcoinco/gitcoinco/community) and [watch](https://github.com/gitcoinco/gitcoinco/community) this github repository to stay up to date, we're pushing new code several times per week!
 
-
-# Active Channels
-
-* Slack - [https://gitcoin.co/slack](https://gitcoin.co/slack)
-* Gitter - [https://gitcoin.co/gitter](https://gitcoin.co/gitter)
-* Twitter - [https://gitcoin.co/twitter](https://gitcoin.co/twitter)
-* Github - [https://gitcoin.co/github](https://gitcoin.co/github)
-* Medium - [https://gitcoin.co/medium](https://gitcoin.co/medium)
-* Email - [https://gitcoin.co/#mc_embed_signup_scroll](https://gitcoin.co/#mc_embed_signup_scroll)
-* Youtube - [https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w)
-
 # Community Videos
 
 ## Q1 2018 
@@ -60,10 +49,19 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [Piper Merriam @ Boulder Startup Week -- Capitalism Redux](https://www.youtube.com/watch?v=zPoaMC1qNFY)
 * [Crypto and the Law @ Boulder Startup Week 2017](https://www.youtube.com/watch?v=6RN0F2CmXPU)
 
-
 ## Before that ..
 
 Checkout [the youtube channel....](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w)
+
+# Other Active Channels
+
+* Slack - [https://gitcoin.co/slack](https://gitcoin.co/slack)
+* Gitter - [https://gitcoin.co/gitter](https://gitcoin.co/gitter)
+* Twitter - [https://gitcoin.co/twitter](https://gitcoin.co/twitter)
+* Github - [https://gitcoin.co/github](https://gitcoin.co/github)
+* Medium - [https://gitcoin.co/medium](https://gitcoin.co/medium)
+* Email - [https://gitcoin.co/#mc_embed_signup_scroll](https://gitcoin.co/#mc_embed_signup_scroll)
+* Youtube - [https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w)
 
 
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/community' style='width:1px; height:1px;' >
