@@ -1,4 +1,4 @@
-# Gitcoin Communityommunity
+# Gitcoin Community
 
 Index of all the community stuff associated with gitcoin
 
