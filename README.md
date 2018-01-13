@@ -41,6 +41,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 ## Q3 2017 
 
 * [StartupCTO.io -- Interview with Matt Walters / Rhys Lindmark](https://startupcto.io/podcast/0-56-blockchain-nerdery-w-matt-walters-rhys-lindmark/)
+* [Leadership Series -- Kevin Owocki interview with Jon of ShapeShift and CEO of SALT Lending](https://www.youtube.com/watch?v=vxmIOr0TCUM)
 * [Boulder Blockchain 0x9](https://www.youtube.com/watch?v=VYULHYzXe7c)
 * [Boulder Blockchain 0x8](https://www.youtube.com/watch?v=qpvOcct9K-U)
 * [StartupCTO.io -- Interview with Raine Revere](https://startupcto.io/podcast/0-54-the-ethereum-ecosystem-w-raine-revere-lead-architect-at-prism/)
@@ -52,6 +53,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 * [Congressman Jared Polis on Blockchain 2017/07/06](https://www.youtube.com/watch?v=cUgDpcmTdCA)
 * Boulder Blockchain 0x4 (Lost Forever - oh noes!)
+* [Youve got ETH wins the Dappathon.com community prize](https://www.youtube.com/watch?v=dk_Qz_cwNVk)
 * [Boulder Blockchain 0x3](https://www.youtube.com/watch?v=yzllb6OTUz4)
 * [Boulder Blockchain 0x2](https://www.youtube.com/watch?v=9adyuj-0NC8)
 * [Boulder Blockchain 0x1](https://www.youtube.com/watch?v=bC-oas5ckak)
