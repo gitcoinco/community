@@ -17,6 +17,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Q1 2018 
 
+* [Boulder Blockchain 0x11](https://www.youtube.com/watch?v=drZmA2oFTvk)
 * [Gitcoin Community Livestream 2018/01/12](https://www.youtube.com/watch?v=PaDVPDvj-w0) 
 * [Gitcoin Demo](https://www.youtube.com/watch?v=7UE_ysCC4js) 
 * [Boulder Blockchain 0x10](https://www.youtube.com/watch?v=evitT6ACm9I)
