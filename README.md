@@ -78,7 +78,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Also ..
 
-We've done our best to index our community updates above.. But if you still want to learn more, you can checkout [the youtube channel](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w), [Medium page](https://gitcoin.co/medium), and [Twitter page](https://gitcoin.co/twitter).
+We've done our best to index our community updates above.. But if you still want to learn more, you can checkout [the Youtube channel](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w), [Medium page](https://gitcoin.co/medium), and [Twitter page](https://gitcoin.co/twitter).
 
 # Other Active Channels
 
