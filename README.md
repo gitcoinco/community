@@ -17,6 +17,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## Q1 2018 
 
+* [VIDEO - StandardBounties Integration Deployment 2018/01/16](https://consensys.zoom.us/recording/play/xFkggkvk9Vcx1gjuq1LK12SH1WSVbnNhA_BfMiu1b01zLKP9iEvzwPPKh9aMA8Kd) 
 * [TEXT - Community Roundup 2018/01/26](emails/2018.01.26.pdf) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/25](https://youtu.be/5Hkm8XnFw4k) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/25](https://youtu.be/5Hkm8XnFw4k) 
