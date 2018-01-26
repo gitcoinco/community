@@ -17,21 +17,27 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## January 2018 
 
-* [VIDEO - StandardBounties Integration Deployment 2018/01/16](https://consensys.zoom.us/recording/play/xFkggkvk9Vcx1gjuq1LK12SH1WSVbnNhA_BfMiu1b01zLKP9iEvzwPPKh9aMA8Kd) 
+* [TEXT - Integrating StandardBounties - 2018/01/26](https://medium.com/gitcoin/integrating-standard-bounties-dc4cf62bf814)
+* [VIDEO - StandardBounties Integration Deployment 2018/01/26](https://consensys.zoom.us/recording/play/xFkggkvk9Vcx1gjuq1LK12SH1WSVbnNhA_BfMiu1b01zLKP9iEvzwPPKh9aMA8Kd) 
 * [TEXT - Community Roundup 2018/01/26](emails/2018.01.26.pdf) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/25](https://youtu.be/5Hkm8XnFw4k) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/25](https://youtu.be/5Hkm8XnFw4k) 
+* [TEXT - Mark Beacom joins Gitcoin Core Team - 2018/01/24](https://medium.com/gitcoin/mark-beacom-joins-gitcoin-core-team-16e71451714a)
 * [VIDEO - Gitcoin at Rocky Mountain Blockchain Meetup 2018/01/24](https://youtu.be/Ygoiz7tAZjo) 
 * [VIDEO - Gitcoin Community Livestream 2018/01/19](https://youtu.be/ZCHrtz4ItH4) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/18](https://youtu.be/mD2MAxkhhmU) 
+* [TEXT - The Cathedral and the Bazaar - 2018/01/17](https://medium.com/gitcoin/the-cathedral-and-the-bazaar-5b97349fd53b)
+* [TEXT - CodeSponsor + Gitcoin = OSS Sustainability 2018/01/16](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4)
 * [TEXT - Community Roundup 2018/01/16](emails/2018.01.16.pdf) 
 * [TEXT - CodeSponsor Announcement 2018/01/15](emails/2018.01.15.pdf) 
 * [VIDEO - Boulder Blockchain 0x11 - 2018/01/17](https://www.youtube.com/watch?v=drZmA2oFTvk)
 * [VIDEO - Gitcoin Community Livestream 2018/01/12](https://www.youtube.com/watch?v=PaDVPDvj-w0) 
 * [TEXT - Community Roundup 2018/01/12](emails/2018.01.12.pdf) 
+* [TEXT - A brief history of Open Source 2018/01/10](https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb451767)
 * [VIDEO - Gitcoin Demo - 2018/01/10](https://www.youtube.com/watch?v=7UE_ysCC4js) 
 * [VIDEO - Boulder Blockchain 0x10 - 2018/01/04](https://www.youtube.com/watch?v=evitT6ACm9I)
 * Gitcoin Community Livestream 2018/01/05 (Lost forever -- oh noes!)
+* [TEXT - Growing Gitcoin 2018/01/03](https://medium.com/gitcoin/growing-gitcoin-c39f8520134d)
 
 ## Q4 2017 
 
@@ -39,9 +45,12 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [TEXT - Community Roundup 2017/12/28](emails/2017.12.28.pdf) 
 * [VIDEO - Kevin Owocki at Ignite 34 -- Blockchain is the next TCP/IP](https://www.youtube.com/watch?v=eaIeFQd8h3k) 
 * Gitcoin Community Livestream 2017/12/22 (Lost forever -- oh noes!)
+* [TEXT - Ethwallpaper.co — our holiday gift to the Ethereum community - 2017/12/26](https://medium.com/gitcoin/ethwallpaper-co-our-holiday-gift-to-the-ethereum-community-88be026f64a9) 
 * [AUDIO - Evan Van Ness Interview w. Kevin Owocki and Mark Beylin](https://thebitcoinpodcast.com/an-ethereum-podcast-episode-8/)
 * [VIDEO - Boulder Blockchain 0xF](https://www.youtube.com/watch?v=ExmZlC24ZJY)
 * [StartupCTO.io Episode -- Interview with Clay Collins and Nick Gauthier](https://startupcto.io/podcast/0-59-blockchain-is-like-sriracha-its-delicious-clay-collins-nick-gauthier-of-nomics-com/)
+* [TEXT - Gitcoin joins Consensys - 2017/12/21](https://medium.com/gitcoin/ethdenver-request-for-project-proposals-9ed979dafbbe) 
+* [TEXT - Gitcoin joins Consensys - 2017/12/20](https://medium.com/gitcoin/gitcoin-chrome-extension-enters-alpha-63f9bdf492e4) 
 * [TEXT - Community Roundup 2017/12/06](emails/2017.12.06.pdf) 
 * [VIDEO - Boulder Blockchain 0xE](https://www.youtube.com/watch?v=uSLdwhDw1Qw)
 * [VIDEO - Boulder Blockchain 0xD](https://www.youtube.com/watch?v=Yk1LXnqkSSk)
@@ -49,10 +58,15 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [TEXT - Community Roundup 2017/11/21](emails/2017.11.21.pdf) 
 * Boulder Blockchain 0xC (Lost Forever - oh noes!)
 * [TEXT - Community Roundup 2017/11/15](emails/2017.11.15.pdf) 
+* [TEXT - Gitcoin joins Consensys - 2017/11/26](https://medium.com/gitcoin/gitcoin-joins-consensys-announces-pilot-projects-bc1b9241d836) 
+* [TEXT - Critical Security Vulnerability Patched - 2017/11/10](https://medium.com/gitcoin/critical-security-vulnerability-patched-2017-11-10-9472db340692) 
 * [VIDEO - Boulder Blockchain 0xB](https://www.youtube.com/watch?v=5HAzGuRGN44)
 * [VIDEO - Gitcoin at Ethereum Boulder 2017/10/12](https://www.youtube.com/watch?v=B5C9UM8n1rU)
 * [TEXT - Community Roundup 2017/10/07](emails/2017.10.07.pdf) 
+* [TEXT - Playing the Long Game - 2017/09/26](https://medium.com/gitcoin/playing-the-long-game-fbd78fb41de6) 
+* [TEXT - Gitcoin Launches - 2017/09/25](https://medium.com/gitcoin/pushing-open-source-forward-for-the-web3-generation-26a5726902ea) 
 * [VIDEO - Boulder Blockchain 0xA](https://www.youtube.com/watch?v=IZiQSgMroA4)
+* [TEXT - Statement about Fund Request Token and Gitcoin - 2017/09/25](https://medium.com/gitcoin/statement-about-fundrequesttoken-gitcoin-d768170146bb) 
 
 ## Q3 2017 
 
