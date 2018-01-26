@@ -13,7 +13,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 [Star](https://github.com/gitcoinco/community/stargazers) and [watch](https://github.com/gitcoinco/community/watchers) this github repository to stay up to date, we're pushing new code several times per week!
 
-# Community Videos
+# Community Content
 
 ## Q1 2018 
 
@@ -76,9 +76,9 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [VIDEO - Piper Merriam @ Boulder Startup Week -- Capitalism Redux](https://www.youtube.com/watch?v=zPoaMC1qNFY)
 * [VIDEO - Crypto and the Law @ Boulder Startup Week 2017](https://www.youtube.com/watch?v=6RN0F2CmXPU)
 
-## Before that ..
+## Also ..
 
-Checkout [the youtube channel....](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w) and [Medium](https://gitcoin.co/medium)
+We've done our best to index our community updates above.. But if you still want to learn more, you can checkout [the youtube channel](https://www.youtube.com/channel/UCX1SjvunDpJ_iJXws8To93w), [Medium page](https://gitcoin.co/medium), and [Twitter page](https://gitcoin.co/twitter).
 
 # Other Active Channels
 
