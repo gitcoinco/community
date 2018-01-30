@@ -29,6 +29,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [VIDEO - Gitcoin Foundation All-hands 2018/01/18](https://youtu.be/mD2MAxkhhmU) 
 * [TEXT - The Cathedral and the Bazaar - 2018/01/17](https://medium.com/gitcoin/the-cathedral-and-the-bazaar-5b97349fd53b)
 * [TEXT - CodeSponsor + Gitcoin = OSS Sustainability 2018/01/16](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4)
+* [VIDEO - Gitcoin at Cablelabs 2018/01/16](https://youtu.be/LQYSZsYDe1M) 
 * [TEXT - Community Roundup 2018/01/16](emails/2018.01.16.pdf) 
 * [TEXT - CodeSponsor Announcement 2018/01/15](emails/2018.01.15.pdf) 
 * [VIDEO - Boulder Blockchain 0x11 - 2018/01/17](https://www.youtube.com/watch?v=drZmA2oFTvk)
