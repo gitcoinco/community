@@ -15,6 +15,10 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 # Community Content
 
+## February 2018 
+
+* [VIDEO - Boulder Blockchain 0x12 - 2018/02/01](https://consensys.zoom.us/recording/play/7yzSl7zFPm3FILofNaKDY4MzvB-Wm4Kc65HeuX-o41QDEnC2pYK3OAvOw1mCuH9k)
+
 ## January 2018 
 
 * [AUDIO - Kevin Owocki on Changelog - 2018/01/26](https://changelog.com/podcast/281)
