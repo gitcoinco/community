@@ -40,7 +40,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [TEXT - Mark Beacom joins Gitcoin Core Team - 2018/01/24](https://medium.com/gitcoin/mark-beacom-joins-gitcoin-core-team-16e71451714a)
 * [VIDEO - Gitcoin at Rocky Mountain Blockchain Meetup 2018/01/24](https://youtu.be/Ygoiz7tAZjo) 
 * [VIDEO - Gitcoin Community Livestream 2018/01/19](https://youtu.be/ZCHrtz4ItH4) 
-* [VIDEO - Gitcoin Foundation All-hands 2018/01/18](https://youtu.be/mD2MAxkhhmU) 
+* [VIDEO - Gitcoin Foundation All-hands (the big team onboarding one) 2018/01/18](https://youtu.be/mD2MAxkhhmU) 
 * [TEXT - The Cathedral and the Bazaar - 2018/01/17](https://medium.com/gitcoin/the-cathedral-and-the-bazaar-5b97349fd53b)
 * [TEXT - CodeSponsor + Gitcoin = OSS Sustainability 2018/01/16](https://medium.com/gitcoin/code-sponsor-gitcoin-oss-sustainability-5684c4adf4b4)
 * [VIDEO - Gitcoin at Cablelabs 2018/01/16](https://youtu.be/LQYSZsYDe1M) 
