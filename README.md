@@ -17,20 +17,35 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 ## March 2018
 
+* [TEXT - A Warm Welcome to Web3 - 2018/03/09](https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5)
+* [TEXT - Gitcoin Weekly - Welcome to Web3 - 2018/03/09](emails/20180309.pdf) 
 * [VIDEO -- Gitcoin Community Livestream 2018/03/02](https://consensys.zoom.us/recording/play/HziptnkD6ewt0vcQwffszaHYu0B5Pp17ws9Yh0cDxbe2t-t2p-6cLexRNFC0K8P1)
 
 
 ## February 2018 
 
+* [TEXT - Post Mortem - Production Issues 2018/02/29](https://medium.com/gitcoin/post-mortem-production-issues-2018-02-20-3b4bb4ea003e)
 * [VIDEO - Boulder Blockchain 0x14 - 2018/02/28](https://www.youtube.com/watch?v=fXiEVLq0_us)
+* [TEXT - ETHDenver Wrap Up - 2018/02/27](https://medium.com/gitcoin/gitcoin-ethdenver-wrap-up-cc52d9874b38)
 * [VIDEO -- Gitcoin Community Livestream 2018/02/25](https://consensys.zoom.us/recording/play/wWo5UpEfo0PBw9eIONCuFWmw8ogidp5yCHqTLXSrv4B83PxfvLTZwG1iAHCMkKoo)
+* [TEXT - ColoradoCoin ETHDenver Wrap Up - 2018/02/22](https://medium.com/gitcoin/coloradocoin-ethdenver-wrap-up-94fabb667c61)
+* [TEXT - Colorado Coin 2018/02/16](https://medium.com/gitcoin/colorado-coin-2fd9a52a88b6)
 * [VIDEO - Major February Integration Branch Deployment 2018/02/14](https://consensys.zoom.us/recording/play/X65lvfTh_mmjLEVSttkHX4PGIaHw6EVkDu5fnncUAntsW5x_Nfh7BrNwZTKadGnE) 
-* [VIDEO - Gitcoin Community Livestream 2018/02/03](https://consensys.zoom.us/recording/play/8mOR976itFEP3utmLP-6gwuR-kxn1bYFGU1CCEEU3vXjxn3BIzHEbxAcX2dzcvOM) 
+* [TEXT - Gitcoin Weekly - See you at ETHDenver Edition - 2018/02/14](emails/20180214.pdf) 
+* [VIDEO - Gitcoin Community Livestream 2018/02/03](https://consensys.zoom.us/recording/*)
+* TEXT - Gitcoin Weekly - ETHDenver Edition Wrap Up - 2018/02/14](emails/20180228.pdf) 
+play/8mOR976itFEP3utmLP-6gwuR-kxn1bYFGU1CCEEU3vXjxn3BIzHEbxAcX2dzcvOM) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/02/01](https://consensys.zoom.us/recording/play/qjLyzVSsQdU8HPMmqzZCBXicuhsGidXwTZvgYbGylP7skN-GAwwKAP87DQwIaJ6e) 
 * [VIDEO - Boulder Blockchain 0x12 - 2018/02/01](https://consensys.zoom.us/recording/play/7yzSl7zFPm3FILofNaKDY4MzvB-Wm4Kc65HeuX-o41QDEnC2pYK3OAvOw1mCuH9k)
 
+
+
+* [TEXT - OSS Today; Some Wins, Some Losses - 2018/02/13](https://medium.com/gitcoin/oss-today-some-wins-some-losses-89d1ab46ceb6)
+* [TEXT - ETHDenver - Bounties Track - 2018/02/09](https://medium.com/gitcoin/eth-denver-bounties-track-b7dfdb759759)
+
 ## January 2018 
 
+* [TEXT - Alisa March Joins the Gitcoin Core Team - 2018/01/30](https://medium.com/gitcoin/alisa-march-joins-gitcoin-core-team-1e1a2853a553)
 * [AUDIO - Kevin Owocki on Changelog - 2018/01/26](https://changelog.com/podcast/281)
 * [VIDEO - Gitcoin Community Livestream 2018/01/26](https://consensys.zoom.us/recording/play/FBb9fz8lgFajGoJUXk_WEc8-nsnhcAcq5rFM4pwAnmORi-JzgOXGcWQI7t6q_I_J?autoplay=true) 
 * [TEXT - Integrating StandardBounties - 2018/01/26](https://medium.com/gitcoin/integrating-standard-bounties-dc4cf62bf814)
