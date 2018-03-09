@@ -33,7 +33,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 * [VIDEO - Major February Integration Branch Deployment 2018/02/14](https://consensys.zoom.us/recording/play/X65lvfTh_mmjLEVSttkHX4PGIaHw6EVkDu5fnncUAntsW5x_Nfh7BrNwZTKadGnE) 
 * [TEXT - Gitcoin Weekly - See you at ETHDenver Edition - 2018/02/14](emails/20180214.pdf) 
 * [VIDEO - Gitcoin Community Livestream 2018/02/03](https://consensys.zoom.us/recording/*)
-* TEXT - Gitcoin Weekly - ETHDenver Edition Wrap Up - 2018/02/14](emails/20180228.pdf) 
+* [TEXT - Gitcoin Weekly - ETHDenver Edition Wrap Up - 2018/02/14](emails/20180228.pdf) 
 play/8mOR976itFEP3utmLP-6gwuR-kxn1bYFGU1CCEEU3vXjxn3BIzHEbxAcX2dzcvOM) 
 * [VIDEO - Gitcoin Foundation All-hands 2018/02/01](https://consensys.zoom.us/recording/play/qjLyzVSsQdU8HPMmqzZCBXicuhsGidXwTZvgYbGylP7skN-GAwwKAP87DQwIaJ6e) 
 * [VIDEO - Boulder Blockchain 0x12 - 2018/02/01](https://consensys.zoom.us/recording/play/7yzSl7zFPm3FILofNaKDY4MzvB-Wm4Kc65HeuX-o41QDEnC2pYK3OAvOw1mCuH9k)
