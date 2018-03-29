@@ -21,6 +21,7 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 ## March 2018
 
+* [VIDEO - Gitcoin All Hands - 2018/03/20](https://consensys.zoom.us/recording/play/8o_tF0O-ZynS9KvNj-Co_1pyL5Mx8I27VCWC2mNUEcKnctDKehdGgp862G4UwMn_)
 * [VIDEO -- Community Livestream 2018/03/23](https://consensys.zoom.us/recording/play/0GkShD6YHzAj2XKmmI4amo445FC-44FJVKR00I3h81mjfToijNfLb2TsjdmOtwCb)
 * [VIDEO - Gitcoin All Hands - 2018/03/22](https://consensys.zoom.us/recording/play/GGdKpme5MZnFvgE8mW6q6IL1NQBu8icYTlF10u2MVuL5lgJtkHD2c5chwcMbPwLj)
 * [VIDEO - Gitcoin Community Architecture Meeting - 2018/03/22](https://consensys.zoom.us/recording/play/5_aK3xcOvz4yvZ6Rlc0zv8rb_8-zz4BBnGb0oBkandv5N4fYw-m7vTPm43aTfJMw)
@@ -28,10 +29,12 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 * [TEXT - Gitcoin Weekly - Growing the Gitcoin Toolset - 2018/03/16](emails/20180316.pdf) 
 * [VIDEO - Gitcoin Community Architecture Meeting - 2018/03/15](https://consensys.zoom.us/recording/play/-x57JtBdj4eUtWCVRhG0WiH0-CWXsnbpjKmiA5Np81fOqFsBogfIZCNMCR2BqQ4v)
 * [VIDEO - Gitcoin at SXSW -- (starts at 11:20) - 2018/03/11](https://www.facebook.com/consensussystems/videos/1669918263077212/)
+* [VIDEO - Gitcoin All Hands - 2018/03/8](https://consensys.zoom.us/recording/play/5t1AeylsBFXkc3gUJYA4y6ju6BgGb11SOAn9FG6nKepB5G5AfA_DvYprjWx03HYy)
 * [VIDEO - Gitcoin Community Livestream - 2018/03/09](https://www.youtube.com/watch?v=5iahqmVZC2U)
 * [TEXT - A Warm Welcome to Web3 - 2018/03/09](https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5)
 * [TEXT - Gitcoin Weekly - Welcome to Web3 - 2018/03/09](emails/20180309.pdf) 
 * [VIDEO -- Gitcoin Community Livestream 2018/03/02](https://consensys.zoom.us/recording/play/HziptnkD6ewt0vcQwffszaHYu0B5Pp17ws9Yh0cDxbe2t-t2p-6cLexRNFC0K8P1)
+* [VIDEO - Gitcoin All Hands - 2018/03/1](https://consensys.zoom.us/recording/play/G71BQlUWKtgaB1V2jQtY3PxY5IjWzx8XIofRw9DkI94pzkXocp8Si9Avp732mHli)
 
 
 ## February 2018 
@@ -39,6 +42,8 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 * [TEXT - Post Mortem - Production Issues 2018/02/29](https://medium.com/gitcoin/post-mortem-production-issues-2018-02-20-3b4bb4ea003e)
 * [VIDEO - Boulder Blockchain 0x14 - 2018/02/28](https://www.youtube.com/watch?v=fXiEVLq0_us)
 * [TEXT - ETHDenver Wrap Up - 2018/02/27](https://medium.com/gitcoin/gitcoin-ethdenver-wrap-up-cc52d9874b38)
+* [VIDEO - Gitcoin All Hands - 2018/02/23](https://consensys.zoom.us/recording/play/wWo5UpEfo0PBw9eIONCuFWmw8ogidp5yCHqTLXSrv4B83PxfvLTZwG1iAHCMkKoo)
+* [VIDEO - Gitcoin All Hands - 2018/02/22](https://consensys.zoom.us/recording/play/c-q68oXe8wHd8nPF_DbMoPqec3-ZTgG8Z6twXXpuUHQwz74ic_pAcszff6OFFSow)
 * [VIDEO -- Gitcoin Community Livestream 2018/02/25](https://consensys.zoom.us/recording/play/wWo5UpEfo0PBw9eIONCuFWmw8ogidp5yCHqTLXSrv4B83PxfvLTZwG1iAHCMkKoo)
 * [TEXT - ColoradoCoin ETHDenver Wrap Up - 2018/02/22](https://medium.com/gitcoin/coloradocoin-ethdenver-wrap-up-94fabb667c61)
 * [TEXT - Colorado Coin 2018/02/16](https://medium.com/gitcoin/colorado-coin-2fd9a52a88b6)
