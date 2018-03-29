@@ -21,6 +21,7 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 ## March 2018
 
+* [VIDEO - Gitcoin Community Architecture Meeting - 2018/03/29](https://consensys.zoom.us/recording/play/oNV1i3xzn5bHWBNWpl0sOg-q8cRbIdHylcjk5z-A7db8hJGoCVS-xccYjs2ETIz4)
 * [VIDEO - Gitcoin All Hands - 2018/03/20](https://consensys.zoom.us/recording/play/8o_tF0O-ZynS9KvNj-Co_1pyL5Mx8I27VCWC2mNUEcKnctDKehdGgp862G4UwMn_)
 * [VIDEO -- Community Livestream 2018/03/23](https://consensys.zoom.us/recording/play/0GkShD6YHzAj2XKmmI4amo445FC-44FJVKR00I3h81mjfToijNfLb2TsjdmOtwCb)
 * [VIDEO - Gitcoin All Hands - 2018/03/22](https://consensys.zoom.us/recording/play/GGdKpme5MZnFvgE8mW6q6IL1NQBu8icYTlF10u2MVuL5lgJtkHD2c5chwcMbPwLj)
