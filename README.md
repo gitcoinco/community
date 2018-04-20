@@ -23,15 +23,14 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream   | Kauri, uPort, Data Visualizations, ERC-999    | 2018/04/20    |  [link](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
-
-* [VIDEO - Community Livestream - 2018/04/15](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw)
-* [VIDEO - Gitcoin Architecture Meeting - 2018/04/14](https://consensys.zoom.us/recording/share/wRKUchGdVAtxMJHFey_GUYvmzoX8dRHBrpftDWmGShuwIumekTziMw)
-* [VIDEO - Gitcoin All Hands - 2018/04/14](https://consensys.zoom.us/recording/share/1vflEymqmYpJ87WO9MwQseNbXAELxBaM-fQD4q-Pr3ywIumekTziMw )
-* [VIDEO - Boulder Blockchain 0x14 - 2018/04/13](https://www.youtube.com/watch?v=kIBaMXnYf5A)
-* [VIDEO - Community Livestream - 2018/04/06](https://consensys.zoom.us/recording/play/7YVRKS4ZoYTsiekRnnRMpe2-41SnV_ZQuvzWXuy5BPybUGj96DJKTdL0GF6hk2r6)
-* [VIDEO - Gitcoin Architecture Meeting - 2018/04/05](https://consensys.zoom.us/recording/play/OcYYyyA5AlY7ai4mVf5-fizU6-KLSAuBupGHZk5qL1Grxe9ZW-ENBvxH70VfanVq)
-* [VIDEO - Gitcoin All Hands - 2018/04/05](https://consensys.zoom.us/recording/play/3aM_mtvleZ_Wi1u4WcSmtEKzQBuCrpthsmntSxxAfT77e9EFBB_bGuDibBFsy3aN)
+| Community Livestream   | Kauri, uPort, Data Visualizations, ERC-999    | 2018/04/20    |  [view](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
+| Community Livestream | | 2018/04/15 | [view](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw) |
+| Architecture Meeting | | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/wRKUchGdVAtxMJHFey_GUYvmzoX8dRHBrpftDWmGShuwIumekTziMw) |
+| All Hands Meeting | | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/1vflEymqmYpJ87WO9MwQseNbXAELxBaM-fQD4q-Pr3ywIumekTziMw) |
+| Boulder Blockchain 0x14 | | 2018/04/13 | [view](https://www.youtube.com/watch?v=kIBaMXnYf5A) |
+| Community Livestream | | 2018/04/06 | [view](https://consensys.zoom.us/recording/play/7YVRKS4ZoYTsiekRnnRMpe2-41SnV_ZQuvzWXuy5BPybUGj96DJKTdL0GF6hk2r6) |
+| Architecture Meeting | | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/OcYYyyA5AlY7ai4mVf5-fizU6-KLSAuBupGHZk5qL1Grxe9ZW-ENBvxH70VfanVq) |
+| All Hands Meeting | | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/3aM_mtvleZ_Wi1u4WcSmtEKzQBuCrpthsmntSxxAfT77e9EFBB_bGuDibBFsy3aN) |
 
 
 ## March 2018
