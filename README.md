@@ -15,7 +15,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 # Now available as a podcast
 
-Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitcoin.co/podcast)
+Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitcoin.co/podcast) (this is in alpha, we may or may not keep doing this)
 
 # Community Content
 
@@ -24,13 +24,13 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
 | Community Livestream   | Kauri, uPort, Data Visualizations, ERC-999    | 2018/04/20    |  [view](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
-| Community Livestream | | 2018/04/15 | [view](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw) |
-| Architecture Meeting | | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/wRKUchGdVAtxMJHFey_GUYvmzoX8dRHBrpftDWmGShuwIumekTziMw) |
-| All Hands Meeting | | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/1vflEymqmYpJ87WO9MwQseNbXAELxBaM-fQD4q-Pr3ywIumekTziMw) |
+| Community Livestream | Market Protocol, Aragon Project, Wyvern, Week in Ethereum | 2018/04/15 | [view](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw) |
+| Architecture Meeting | Django Auth | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/wRKUchGdVAtxMJHFey_GUYvmzoX8dRHBrpftDWmGShuwIumekTziMw) |
+| All Hands Meeting | Welcome Justin Bean, CodeFund Launch, Available Work on Platform Volume, User Feedback Plan, Budget Exercise, OKR Check in | 2018/04/14 | [view](https://consensys.zoom.us/recording/share/1vflEymqmYpJ87WO9MwQseNbXAELxBaM-fQD4q-Pr3ywIumekTziMw) |
 | Boulder Blockchain 0x14 | | 2018/04/13 | [view](https://www.youtube.com/watch?v=kIBaMXnYf5A) |
 | Community Livestream | | 2018/04/06 | [view](https://consensys.zoom.us/recording/play/7YVRKS4ZoYTsiekRnnRMpe2-41SnV_ZQuvzWXuy5BPybUGj96DJKTdL0GF6hk2r6) |
-| Architecture Meeting | | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/OcYYyyA5AlY7ai4mVf5-fizU6-KLSAuBupGHZk5qL1Grxe9ZW-ENBvxH70VfanVq) |
-| All Hands Meeting | | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/3aM_mtvleZ_Wi1u4WcSmtEKzQBuCrpthsmntSxxAfT77e9EFBB_bGuDibBFsy3aN) |
+| Architecture Meeting | Kauri/Bounties, Testing Stage, Mobile Login, Team Colab platforms | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/OcYYyyA5AlY7ai4mVf5-fizU6-KLSAuBupGHZk5qL1Grxe9ZW-ENBvxH70VfanVq) |
+| All Hands Meeting | Japan Debrief, Marketing vs Building, Art of Community Notes, Vision Exercise, Moderation / Community Leader, Focus, Community Blog | 2018/04/05 | [view](https://consensys.zoom.us/recording/play/3aM_mtvleZ_Wi1u4WcSmtEKzQBuCrpthsmntSxxAfT77e9EFBB_bGuDibBFsy3aN) |
 
 
 ## March 2018
