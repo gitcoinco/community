@@ -21,7 +21,10 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 ## April 2018
 
-* [VIDEO - Community Livestream 2018/04/20](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream   | Kauri, uPort, Data Visualizations, ERC-999    | 2018/04/20    |  [link](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
+
 * [VIDEO - Community Livestream - 2018/04/15](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw)
 * [VIDEO - Gitcoin Architecture Meeting - 2018/04/14](https://consensys.zoom.us/recording/share/wRKUchGdVAtxMJHFey_GUYvmzoX8dRHBrpftDWmGShuwIumekTziMw)
 * [VIDEO - Gitcoin All Hands - 2018/04/14](https://consensys.zoom.us/recording/share/1vflEymqmYpJ87WO9MwQseNbXAELxBaM-fQD4q-Pr3ywIumekTziMw )
