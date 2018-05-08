@@ -29,8 +29,7 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
 | Community Livestream | uPort Demo, AdChain demo, airSwap, Week In Ethereum | 2018/04/27 | [view](https://consensys.zoom.us/recording/share/FDwUdvocNbz5dKJsKB_nX8eeNQRB5kigRCyRadbUVK6wIumekTziMw) |
-| All Hands Meeting | Funder Research Learnings, Analytics Learnings, Future of Analytics | 2018/04/27 | [view](
-https://consensys.zoom.us/recording/share/tzpQJXu0G_PKuAZfTwE4dn6mDft2urG-mmfJBryU0TewIumekTziMw) |
+| All Hands Meeting | Funder Research Learnings, Analytics Learnings, Future of Analytics | 2018/04/27 | [view](https://consensys.zoom.us/recording/share/tzpQJXu0G_PKuAZfTwE4dn6mDft2urG-mmfJBryU0TewIumekTziMw) |
 | DevHour   | Smart Contracts + Blockchain    | 2018/04/26    |  [view](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
 | Community Livestream   | Kauri, uPort, Data Visualizations, ERC-999    | 2018/04/20    |  [view](https://www.youtube.com/watch?v=xvu1mUdYcuw)   |
 | Community Livestream | Market Protocol, Aragon Project, Wyvern, Week in Ethereum | 2018/04/15 | [view](https://consensys.zoom.us/recording/share/2fOiuVaIvJQ7I1OKAaWOUowO5Zz9i-uYyF3jwzOqVQywIumekTziMw) |
