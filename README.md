@@ -21,6 +21,9 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
+
+| All Hands Meeting | Scaling the team's workflow, Hiring, Ethos Wrap up | 2018/05/17 | [view](https://youtu.be/0WOjAd3lI2c) |
+| Community Livestream | CirclesUBI, Brave Browser, Basic Attention Token | 2018/05/11 | [view](https://consensys.zoom.us/recording/share/Bvxn5aY-qqdbi2_1J07AOd98VjZxpHg0oWJZzMrgZwM) |
 | All Hands Meeting | Scaling the team's workflow | 2018/05/08 | [view](https://consensys.zoom.us/recording/detail?meeting_id=%2FrFMKroMSYWlG3JzhCoFEA%3D%3D) |
 
 
@@ -28,7 +31,6 @@ Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitc
 
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | CirclesUBI, Brave Browser, Basic Attention Token | 2018/05/11 | [view](https://consensys.zoom.us/recording/share/Bvxn5aY-qqdbi2_1J07AOd98VjZxpHg0oWJZzMrgZwM) |
 | Community Livestream | uPort Demo, AdChain demo, airSwap, Week In Ethereum | 2018/04/27 | [view](https://consensys.zoom.us/recording/share/FDwUdvocNbz5dKJsKB_nX8eeNQRB5kigRCyRadbUVK6wIumekTziMw) |
 | All Hands Meeting | Funder Research Learnings, Analytics Learnings, Future of Analytics | 2018/04/27 | [view](https://consensys.zoom.us/recording/share/tzpQJXu0G_PKuAZfTwE4dn6mDft2urG-mmfJBryU0TewIumekTziMw) |
 | DevHour   | Smart Contracts + Blockchain    | 2018/04/26    |  [view](https://consensys.zoom.us/recording/share/k9yfoEVltBeN3vsUojq-pFmef_Sa4PWoqGXD-2yw58SwIumekTziMw)   |
