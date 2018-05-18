@@ -13,9 +13,15 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 [Star](https://github.com/gitcoinco/community/stargazers) and [watch](https://github.com/gitcoinco/community/watchers) this github repository to stay up to date, we're pushing new code several times per week!
 
-# Now available as a podcast
+# Now available 
+
+## as a podcast
 
 Get this content as a video podcast at [https://gitcoin.co/podcast](https://gitcoin.co/podcast) (this is in alpha, we may or may not keep doing this)
+
+## on youtube
+
+Get this content via our youtube channel at [https://gitcoin.co/youtube](https://gitcoin.co/youtube) 
 
 # Community Content
 
