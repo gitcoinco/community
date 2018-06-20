@@ -25,9 +25,18 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 
 # Community Content
 
+## June 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | ?? | 2018/05/25 | [view](https://consensys.zoom.us/recording/share/4fB6tk3rzaWnEuE37HOFB9vm6YCwBHDopc6EGD614MOwIumekTziMw) |
+| Community Livestream | Ujo Music, Truffle, XLNT | 2018/06/08 | [view](https://consensys.zoom.us/recording/play/zHTorff5GqkGbPBPHfK7gtyDuIW-MOsYbDnJ0CMJFLSTznq4BBSq7a_RmIyA7Fl2?continueMode=true) |
+| Community Livestream | Colony & Livepeer | 2018/06/01 | [view](https://consensys.zoom.us/recording/play/a4Y4lnrAQe-ILJ7Sbz8PFEtN1RVrZA_CryuVIHiito8Dbqof_dIitmtc2yDtsbo6?continueMode=true) |
+
+
+## May 2018
+
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Dharma + Andy Tudhope + Gitcoin Profile's | 2018/05/25 | [view](https://consensys.zoom.us/recording/share/4fB6tk3rzaWnEuE37HOFB9vm6YCwBHDopc6EGD614MOwIumekTziMw) |
 | All Hands Meeting | Scaling the team's workflow, Hiring, Ethos Wrap up | 2018/05/17 | [view](https://youtu.be/0WOjAd3lI2c) |
 | Community Livestream | CirclesUBI, Brave Browser, Basic Attention Token | 2018/05/11 | [view](https://consensys.zoom.us/recording/share/Bvxn5aY-qqdbi2_1J07AOd98VjZxpHg0oWJZzMrgZwM) |
 | All Hands Meeting | Scaling the team's workflow | 2018/05/08 | [view](https://consensys.zoom.us/recording/detail?meeting_id=%2FrFMKroMSYWlG3JzhCoFEA%3D%3D) |
