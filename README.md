@@ -28,7 +28,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## June 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | Ujo Music, Truffle, XLNT | 2018/06/08 | [view](https://consensys.zoom.us/recording/play/zHTorff5GqkGbPBPHfK7gtyDuIW-MOsYbDnJ0CMJFLSTznq4BBSq7a_RmIyA7Fl2?continueMode=true) |
+| Community Livestream | Dharma Protocol  | 2018/06/08 | [view](https://consensys.zoom.us/recording/play/zHTorff5GqkGbPBPHfK7gtyDuIW-MOsYbDnJ0CMJFLSTznq4BBSq7a_RmIyA7Fl2?continueMode=true) |
 | Community Livestream | Colony & Livepeer | 2018/06/01 | [view](https://consensys.zoom.us/recording/play/a4Y4lnrAQe-ILJ7Sbz8PFEtN1RVrZA_CryuVIHiito8Dbqof_dIitmtc2yDtsbo6?continueMode=true) |
 
 
