@@ -25,6 +25,17 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 
 # Community Content
 
+## August 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Samsa.ai on cryptoasset management and Justin Drake on Sharding  | 2018/03/08 | [view](https://consensys.zoom.us/recording/share/b6Bwcjm_egEsMctvKEwm68JnUHuZr2Qi6YKYmVzGKgiwIumekTziMw) |
+## July 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Standard Bounties Deep Dive | 2018/07/27| [view](https://consensys.zoom.us/recording/share/FTF7_dbn9lK65K3PL-JFTHHNWgwuDktHwPCHWSou6mCwIumekTziMw) |
+| Community Livestream | Deco.Network with David Sneider| 2018/07/13 | [view](https://consensys.zoom.us/recording/share/FTF7_dbn9lK65K3PL-JFTHHNWgwuDktHwPCHWSou6mCwIumekTziMw) |
+| Community Livestream | Opolis and the Ethereum 2.0 Roadmap (Ben Edington)  | 2018/07/06 | [view](https://consensys.zoom.us/recording/play/OCEBBJK1aspBNfN5qCNS130VoEL0QgKizQAVIhXoESggVBU1_ITp0b1lFNYCsZol?continueMode=true) |
+
 ## June 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
