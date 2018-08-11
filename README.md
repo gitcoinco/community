@@ -28,6 +28,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## August 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Austin Griffith (Meta Transactions) and Nico on Decentraland  | 2018/10/08 | [view](https://consensys.zoom.us/recording/share/VALRfrKcoTC7yCsYcAi8lSvtyDblyF6hGs_6jedV4F2wIumekTziMw) |
 | Community Livestream | Samsa.ai on cryptoasset management and Justin Drake on Sharding  | 2018/03/08 | [view](https://consensys.zoom.us/recording/share/b6Bwcjm_egEsMctvKEwm68JnUHuZr2Qi6YKYmVzGKgiwIumekTziMw) |
 ## July 2018
 | What | Topics | When | Link |
