@@ -25,11 +25,32 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 
 # Community Content
 
+## November 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Ele from OS Coin,   | 2018/11/16 | [view](https://consensys.zoom.us/recording/play/CQQ8FaQKIH-vGkMxUtu4uQt1AOJoCmlHJ2VGOV-gN24noNBPYzTFyTkf3bTwlaKJ?continueMode=true) |
+| Community Livestream | Enigma & Kevin from MetaMask  | 2018/11/09 | [view](https://consensys.zoom.us/recording/play/RWnnR8Ghusr5rA4cwN0JqCRKsDmkxF0PFy9KofJqiwUYzcD_BUOsgJJtVolaiDT6?continueMode=true) |
+
+## October 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Boris Mann from Fission Suite  | 2018/10/19 | [view](https://consensys.zoom.us/recording/play/6Xa8WbCRjI9dF4GBdIw6YqFwngVzF-iP_B23RHoKs02is-VOaucxnuw4QnPxMrXG?continueMode=true) |
+| Community Livestream | DY/DX and OpenSea  | 2018/10/12 | [view](https://consensys.zoom.us/recording/play/uJk5QHHm1lTavRjfpScfr2k2gW2F5umJBl-FjifT20Kj8s5oA0Ubcsfn3rCqa5vw?continueMode=true) |
+
+
+## September 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream |  Will Villaneuva of Bounties Network and Austin Griffith (Meta Transactions)  | 2018/09/21 | [view](https://consensys.zoom.us/recording/detail?meeting_id=wVAvqSfES7u5LJtcQrNy8g%3D%3D) |
+| Community Livestream | Asha from Meridio and Ethan of MakerDAO  | 2018/09/14 | [view](https://consensys.zoom.us/recording/play/9rRL77tXqMItJC76Sb5SvqJ6BhTdeoC0MSfZaOvvmXFVxoraKGOtUuxRNFC0K8P1?continueMode=true) |
+
 ## August 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Andy Tudhope on The Web That Wasn't  | 2018/08/31 | [view](https://consensys.zoom.us/recording/play/sky_vmUE3uwu-MD_5baJZLFJHwnW4PUhX7Z6exT8HAuHoQ8pIdpi1PSrVfnZ42P7?continueMode=true) |
 | Community Livestream | Austin Griffith (Meta Transactions) and Nico on Decentraland  | 2018/08/10 | [view](https://consensys.zoom.us/recording/share/VALRfrKcoTC7yCsYcAi8lSvtyDblyF6hGs_6jedV4F2wIumekTziMw) |
 | Community Livestream | Samsa.ai on cryptoasset management and Justin Drake on Sharding  | 2018/08/03 | [view](https://consensys.zoom.us/recording/share/b6Bwcjm_egEsMctvKEwm68JnUHuZr2Qi6YKYmVzGKgiwIumekTziMw) |
+
 ## July 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
