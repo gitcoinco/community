@@ -28,7 +28,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## November 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | Ele from OS Coin,   | 2018/11/16 | [view](https://consensys.zoom.us/recording/play/CQQ8FaQKIH-vGkMxUtu4uQt1AOJoCmlHJ2VGOV-gN24noNBPYzTFyTkf3bTwlaKJ?continueMode=true) |
+| Community Livestream | Ele from OS Coin  | 2018/11/16 | [view](https://consensys.zoom.us/recording/play/CQQ8FaQKIH-vGkMxUtu4uQt1AOJoCmlHJ2VGOV-gN24noNBPYzTFyTkf3bTwlaKJ?continueMode=true) |
 | Community Livestream | Enigma & Kevin from MetaMask  | 2018/11/09 | [view](https://consensys.zoom.us/recording/play/RWnnR8Ghusr5rA4cwN0JqCRKsDmkxF0PFy9KofJqiwUYzcD_BUOsgJJtVolaiDT6?continueMode=true) |
 
 ## October 2018
@@ -48,6 +48,9 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
 | Community Livestream | Andy Tudhope on The Web That Wasn't  | 2018/08/31 | [view](https://consensys.zoom.us/recording/play/sky_vmUE3uwu-MD_5baJZLFJHwnW4PUhX7Z6exT8HAuHoQ8pIdpi1PSrVfnZ42P7?continueMode=true) |
+| Community Livestream | Portis and Mitch Kosowski on ETHPrize | 2018/08/24 | [view](https://consensys.zoom.us/recording/play/Zp5G2sEUPw6YG-r9CkxgpXzLNRUILu9wmvXcixd1_UNc-nXBmLN93G-5G4mzFpm3?continueMode=true) |
+| Community Livestream | Paul Brower from Gitcoin Community + POA Network | 2018/08/24 | [view](https://consensys.zoom.us/recording/share/8FWwrYQavbVbs7eB6mJJlevqBNivvjmXnaq8v7PhAIA) |
+
 | Community Livestream | Austin Griffith (Meta Transactions) and Nico on Decentraland  | 2018/08/10 | [view](https://consensys.zoom.us/recording/share/VALRfrKcoTC7yCsYcAi8lSvtyDblyF6hGs_6jedV4F2wIumekTziMw) |
 | Community Livestream | Samsa.ai on cryptoasset management and Justin Drake on Sharding  | 2018/08/03 | [view](https://consensys.zoom.us/recording/share/b6Bwcjm_egEsMctvKEwm68JnUHuZr2Qi6YKYmVzGKgiwIumekTziMw) |
 
