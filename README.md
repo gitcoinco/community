@@ -25,11 +25,19 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 
 # Community Content
 
+## December 2018
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Derek + Isaac from Bloom, Jared + Martin from Quantstamp  | 2018/12/09 | [Bloom](https://consensys.zoom.us/recording/share/n5yGplyh8w9E-6JxoBPPJHCSmczY2AbPTRHJG7VgzTGwIumekTziMw?startTime=1544219970000) [Quantstamp](https://consensys.zoom.us/recording/share/n5yGplyh8w9E-6JxoBPPJHCSmczY2AbPTRHJG7VgzTGwIumekTziMw?startTime=1544221728000)|
+
+
 ## November 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Polkadot & Peg from Dark Crystal  | 2018/11/30 | [view](https://consensys.zoom.us/recording/play/XSyggFA--Zb3MSrjXnMwu33q07IDdxbamW9bBTEgPx6f8IaWh1Dtm4xsGncOLQdv?autoplay=true&startTime=1543615411000) |
 | Community Livestream | Ele from OS Coin  | 2018/11/16 | [view](https://consensys.zoom.us/recording/play/CQQ8FaQKIH-vGkMxUtu4uQt1AOJoCmlHJ2VGOV-gN24noNBPYzTFyTkf3bTwlaKJ?continueMode=true) |
-| Community Livestream | Enigma & Kevin from MetaMask  | 2018/11/09 | [view](https://consensys.zoom.us/recording/play/RWnnR8Ghusr5rA4cwN0JqCRKsDmkxF0PFy9KofJqiwUYzcD_BUOsgJJtVolaiDT6?continueMode=true) |
+| Community Livestream | Enigma & Kevin from MetaMask  | 2018/11/09 | [view](https://consensys.zoom.us/recording/play/RWnnR8Ghusr5rA4cwN0JqCRKsDmkxF0PFy9KofJqiwUYzcD_BUOsgJJtVolaiDT6?continueMode=true)
+
 
 ## October 2018
 | What | Topics | When | Link |
