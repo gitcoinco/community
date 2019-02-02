@@ -42,7 +42,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## October 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | Boris Mann from Fission Suite  | 2018/10/19 | [view](https://consensys.zoom.us/recording/play/6Xa8WbCRjI9dF4GBdIw6YqFwngVzF-iP_B23RHoKs02is-VOaucxnuw4QnPxMrXG?continueMode=true) |
+| Community Livestream | Brooke Zelenka & Boris Mann from [Fission](https://fission.codes)  | 2018/10/19 | [view](https://consensys.zoom.us/recording/play/6Xa8WbCRjI9dF4GBdIw6YqFwngVzF-iP_B23RHoKs02is-VOaucxnuw4QnPxMrXG?continueMode=true) |
 | Community Livestream | DY/DX and OpenSea  | 2018/10/12 | [view](https://consensys.zoom.us/recording/play/uJk5QHHm1lTavRjfpScfr2k2gW2F5umJBl-FjifT20Kj8s5oA0Ubcsfn3rCqa5vw?continueMode=true) |
 
 
