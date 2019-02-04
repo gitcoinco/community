@@ -42,7 +42,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## October 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
-| Community Livestream | Boris Mann from Fission Suite  | 2018/10/19 | [view](https://consensys.zoom.us/recording/play/6Xa8WbCRjI9dF4GBdIw6YqFwngVzF-iP_B23RHoKs02is-VOaucxnuw4QnPxMrXG?continueMode=true) |
+| Community Livestream | Brooke Zelenka & Boris Mann from [Fission](https://fission.codes)  | 2018/10/19 | [view](https://consensys.zoom.us/recording/play/6Xa8WbCRjI9dF4GBdIw6YqFwngVzF-iP_B23RHoKs02is-VOaucxnuw4QnPxMrXG?continueMode=true) |
 | Community Livestream | DY/DX and OpenSea  | 2018/10/12 | [view](https://consensys.zoom.us/recording/play/uJk5QHHm1lTavRjfpScfr2k2gW2F5umJBl-FjifT20Kj8s5oA0Ubcsfn3rCqa5vw?continueMode=true) |
 
 
@@ -58,7 +58,6 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 | Community Livestream | Andy Tudhope on The Web That Wasn't  | 2018/08/31 | [view](https://consensys.zoom.us/recording/play/sky_vmUE3uwu-MD_5baJZLFJHwnW4PUhX7Z6exT8HAuHoQ8pIdpi1PSrVfnZ42P7?continueMode=true) |
 | Community Livestream | Portis and Mitch Kosowski on ETHPrize | 2018/08/24 | [view](https://consensys.zoom.us/recording/play/Zp5G2sEUPw6YG-r9CkxgpXzLNRUILu9wmvXcixd1_UNc-nXBmLN93G-5G4mzFpm3?continueMode=true) |
 | Community Livestream | Paul Brower from Gitcoin Community + POA Network | 2018/08/24 | [view](https://consensys.zoom.us/recording/share/8FWwrYQavbVbs7eB6mJJlevqBNivvjmXnaq8v7PhAIA) |
-
 | Community Livestream | Austin Griffith (Meta Transactions) and Nico on Decentraland  | 2018/08/10 | [view](https://consensys.zoom.us/recording/share/VALRfrKcoTC7yCsYcAi8lSvtyDblyF6hGs_6jedV4F2wIumekTziMw) |
 | Community Livestream | Samsa.ai on cryptoasset management and Justin Drake on Sharding  | 2018/08/03 | [view](https://consensys.zoom.us/recording/share/b6Bwcjm_egEsMctvKEwm68JnUHuZr2Qi6YKYmVzGKgiwIumekTziMw) |
 
