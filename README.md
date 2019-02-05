@@ -25,6 +25,18 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 
 # Community Content
 
+## February 2019
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Plasma Group (Karl Floresch and Kelvin Fichter) & MetaCoin  | 2010/02/01 | [view](https://consensys.zoom.us/recording/share/Lk6JjrUlwf2CNJZqaAGYuv8Sp2olfAtNYBprf_okAnk?startTime=1549058826000) |
+
+## January 2019
+| What | Topics | When | Link |
+| :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Cent | 2010/01/18 | [Part I](https://consensys.zoom.us/recording/share/6CIHVwYP7O6ZZbqBiAlqUNYpjBAAmRoQVM18Kyrf_e-wIumekTziMw?startTime=1547848952000) [Part II](https://consensys.zoom.us/recording/share/6CIHVwYP7O6ZZbqBiAlqUNYpjBAAmRoQVM18Kyrf_e-wIumekTziMw?startTime=1547851496000)| 
+| Community Livestream | WhiteBlock + bZx Portal | 2010/01/11 | [Link](https://consensys.zoom.us/recording/share/X_vWTb3WdhgEBET9q7xX4s15wrplH491nv3EFqbweAywIumekTziMw?startTime=1547244314000)| |
+
+
 ## December 2018
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
