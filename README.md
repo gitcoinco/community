@@ -28,6 +28,7 @@ Get this content via our youtube channel at [https://gitcoin.co/youtube](https:/
 ## February 2019
 | What | Topics | When | Link |
 | :---         |     :---:      |          ---: |          ---: |
+| Community Livestream | Glen Weyl  | 2010/02/01 | [view](https://consensys.zoom.us/recording/share/yH1N18US0bEVp_58D7k8aQ1mCM1ArAWP4MbrepvnHQewIumekTziMw?startTime=1549662648000) |
 | Community Livestream | Plasma Group (Karl Floresch and Kelvin Fichter) & MetaCoin  | 2010/02/01 | [view](https://consensys.zoom.us/recording/share/Lk6JjrUlwf2CNJZqaAGYuv8Sp2olfAtNYBprf_okAnk?startTime=1549058826000) |
 
 ## January 2019
