@@ -1,5 +1,7 @@
 # Gitcoin Community
 
+THIS REPO IS NOT UPDATED ANY LONGER - FOR AN UPDATED LIST OF OUR VIDEO CONTENT CHECK YOUTUBE - https://www.youtube.com/channel/UCeKRqRjzSzq5yP-zUPwc6_w
+
 Index of all the community stuff associated with gitcoin
 
 <table>
